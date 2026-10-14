@@ -47,4 +47,4 @@ est mise de côté, un matricule est corrigé sans perdre ses notes, puis le bul
 - API web : environ 280 routes, plus de 70 migrations versionnées.
 
 ---
-Sylvain Kouo Pehuie · Québec · Les données des exemples sont fictives.
+Sylvain KOUO PEHUIE · Les données des exemples sont fictives.
